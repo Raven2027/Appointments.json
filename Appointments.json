@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "patient_id": 2,
+    "doctor_id": 4,
+    "date": "2025-10-28",
+    "time": "09:30 AM",
+    "reason": "General health check-up",
+    "status": "Confirmed"
+  },
+  {
+    "id": 2,
+    "patient_id": 5,
+    "doctor_id": 1,
+    "date": "2025-10-30",
+    "time": "11:00 AM",
+    "reason": "Fever and body pain",
+    "status": "Pending"
+  },
+  {
+    "id": 3,
+    "patient_id": 3,
+    "doctor_id": 6,
+    "date": "2025-11-01",
+    "time": "02:15 PM",
+    "reason": "Blood pressure review",
+    "status": "Completed"
+  },
+  {
+    "id": 4,
+    "patient_id": 9,
+    "doctor_id": 2,
+    "date": "2025-11-03",
+    "time": "10:45 AM",
+    "reason": "Routine check-up",
+    "status": "Confirmed"
+  },
+  {
+    "id": 5,
+    "patient_id": 1,
+    "doctor_id": 5,
+    "date": "2025-11-04",
+    "time": "01:00 PM",
+    "reason": "Follow-up consultation",
+    "status": "Pending"
+  },
+  {
+    "id": 6,
+    "patient_id": 4,
+    "doctor_id": 3,
+    "date": "2025-11-05",
+    "time": "09:00 AM",
+    "reason": "Diabetes management",
+    "status": "Cancelled"
+  },
+  {
+    "id": 7,
+    "patient_id": 7,
+    "doctor_id": 8,
+    "date": "2025-11-06",
+    "time": "12:30 PM",
+    "reason": "Lab test results",
+    "status": "Completed"
+  },
+  {
+    "id": 8,
+    "patient_id": 6,
+    "doctor_id": 9,
+    "date": "2025-11-07",
+    "time": "03:15 PM",
+    "reason": "Consultation for back pain",
+    "status": "Confirmed"
+  },
+  {
+    "id": 9,
+    "patient_id": 8,
+    "doctor_id": 10,
+    "date": "2025-11-08",
+    "time": "04:00 PM",
+    "reason": "Skin allergy treatment",
+    "status": "Pending"
+  },
+  {
+    "id": 10,
+    "patient_id": 10,
+    "doctor_id": 7,
+    "date": "2025-11-09",
+    "time": "11:45 AM",
+    "reason": "Mental health consultation",
+    "status": "Confirmed"
+  }
+]
